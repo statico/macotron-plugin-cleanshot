@@ -8,7 +8,9 @@ Fourteen commands, all through CleanShot's own URL scheme:
 | Command | What it does |
 |---|---|
 | Capture Area | Select a region |
+| Copy Area to Clipboard | Select a region and copy it |
 | Capture Fullscreen | The whole screen |
+| Capture Fullscreen After Delay | The whole screen, in 5 seconds |
 | Capture Window | Pick a window |
 | Capture Previous Area | The same region as last time |
 | Scrolling Capture | Capture a long page |
